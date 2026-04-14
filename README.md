@@ -68,3 +68,31 @@ Dependendo do tamanho das engrenagens:
 As menores giram mais rápido
 As maiores giram mais devagar, mas com mais força![78c1a408-6e3e-43c6-b673-7c77d621be89](https://github.com/user-attachments/assets/7b3ec8d3-048b-41ee-be16-d48f53c95ec6)
 
+Espessura da tampa - 	2,3mm
+————————————————————————
+Diametro dos furos da caixa - 5,9mm
+————————————————————————
+Diametro e comprimento dos eixos:
+Diametro eixo maior - 33,20mm
+Comprimento eixo maior - 41,10mm
+ 
+Diametro eixo estrela - 46,60mm
+Comprimento eixo estrela - 11,10mm
+ 
+Diametro eixo menor - 37,70mm
+Comprimento eixo menor - 10,50mm
+————————————————————————
+Largura da engrenagem - 22,7mm
+————————————————————————
+Distancia entre centros dos eixos
+ 
+Eixo maior - 16,60mm
+Eixo estrela - 23,30mm
+Eixo menor - 18,85mm
+————————————————————————
+Profundidade do alojamento interno - 22,45mm
+
+
+
+
+
